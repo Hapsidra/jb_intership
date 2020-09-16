@@ -1,0 +1,2 @@
+kernel,C,gamma,degree,epsilon,coef0
+'poly',100.0,'auto',3.0,0.1,1.0
